@@ -56,6 +56,26 @@
 					<integer>5</integer>
 				</dict>
 			</dict>
+			<key>[译]012-18-100个问题看懂美国历史_006.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>499676447.90384197</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>9</integer>
+				</dict>
+			</dict>
+			<key>[译]013-18-100个问题看懂美国历史_007.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>499915575.74668902</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>13</integer>
+				</dict>
+			</dict>
 		</dict>
 		<key>sheetOrder</key>
 		<real>499016993.98117</real>
@@ -70,6 +90,12 @@
 		</array>
 		<array>
 			<string>[译]010-18-100个问题看懂美国历史_005.md</string>
+		</array>
+		<array>
+			<string>[译]012-18-100个问题看懂美国历史_006.md</string>
+		</array>
+		<array>
+			<string>[译]013-18-100个问题看懂美国历史_007.md</string>
 		</array>
 		<array>
 			<string>[译]006-18-100个问题看懂美国历史_003.md</string>
@@ -87,7 +113,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>6</integer>
+			<integer>14</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>

@@ -5,10 +5,129 @@
 	<key>resolutionData</key>
 	<dict>
 		<key>sheetClusters</key>
-		<dict/>
+		<dict>
+			<key>[原创]008-小学英语第一单元发音指南.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>499514849.81957501</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>5</integer>
+				</dict>
+			</dict>
+			<key>[原创]009-小学英语第一单元发音指南（2）.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>499514849.81954002</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>5</integer>
+				</dict>
+			</dict>
+			<key>[原创]010-小学英语第一单元发音指南（3）.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>499514886.89705402</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>6</integer>
+				</dict>
+			</dict>
+			<key>[原创]011-给家长的英语发音教程04.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>499576983.38423502</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>14</integer>
+				</dict>
+			</dict>
+			<key>[原创]012-给家长的英语发音教程05.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>499741388.174797</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>18</integer>
+				</dict>
+			</dict>
+			<key>[原创]013-给家长的英语发音教程06.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>500172158.21852201</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>22</integer>
+				</dict>
+			</dict>
+			<key>[译]001-01-斯坦福：”高中生应该具备的十个能力“ .md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>499514849.81950998</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>5</integer>
+				</dict>
+			</dict>
+			<key>小学一年级怎么学英语.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>499514849.81951201</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>5</integer>
+				</dict>
+			</dict>
+			<key>幼升小：三个好习惯让你的孩子也成为尖子.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>499514849.819511</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>5</integer>
+				</dict>
+			</dict>
+		</dict>
 	</dict>
 	<key>sheetClusters</key>
-	<array/>
+	<array>
+		<array>
+			<string>[译]001-01-斯坦福：”高中生应该具备的十个能力“ .md</string>
+		</array>
+		<array>
+			<string>幼升小：三个好习惯让你的孩子也成为尖子.md</string>
+		</array>
+		<array>
+			<string>小学一年级怎么学英语.md</string>
+		</array>
+		<array>
+			<string>[原创]009-小学英语第一单元发音指南（2）.md</string>
+		</array>
+		<array>
+			<string>[原创]010-小学英语第一单元发音指南（3）.md</string>
+		</array>
+		<array>
+			<string>[原创]011-给家长的英语发音教程04.md</string>
+		</array>
+		<array>
+			<string>[原创]012-给家长的英语发音教程05.md</string>
+		</array>
+		<array>
+			<string>[原创]013-给家长的英语发音教程06.md</string>
+		</array>
+		<array>
+			<string>[原创]008-小学英语第一单元发音指南.md</string>
+		</array>
+	</array>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
 	<key>versioning</key>
@@ -16,7 +135,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>3</integer>
+			<integer>23</integer>
 		</dict>
 	</dict>
 </dict>

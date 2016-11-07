@@ -16,12 +16,25 @@
 					<integer>3</integer>
 				</dict>
 			</dict>
+			<key>11月06小提琴作业.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>500097900.50190997</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>7</integer>
+				</dict>
+			</dict>
 		</dict>
 	</dict>
 	<key>sheetClusters</key>
 	<array>
 		<array>
 			<string>10月23小提琴作业.md</string>
+		</array>
+		<array>
+			<string>11月06小提琴作业.md</string>
 		</array>
 	</array>
 	<key>storeFormatVersion</key>
@@ -31,7 +44,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>4</integer>
+			<integer>8</integer>
 		</dict>
 	</dict>
 </dict>
