@@ -48,6 +48,7 @@ proxies:
     - { name: '⌈校园网⌋  国内546', type: vmess, server: 112.18.159.114, port: '546', uuid: 71cb52e5-4347-419b-9c13-235eb1a723b0, alterId: 0, cipher: auto, udp: true, network: mkcp }
 proxy-groups:
     - { name: 快游戏, type: select, proxies: [全球自动选择, 境外自动选择, 故障转移, '剩余流量：408.61 GB', '距离下次重置剩余：3 天', 套餐到期：2023-02-16, '快游戏官网：http://www.quick-connect.top/', 只用于游戏加速，禁止用于非法用途，禁止刷流量，谢谢大家配合, 所有HTTP、WS节点可自定义PATH, '四川 | 80 | WS |', '四川 | 80 | WS | ipv6', '江苏 | 80 | TCP |', '四川 | 443 | TCP |', '香港1 | 80 | WS |  Netflix', '香港2 | 80 | TCP |  回国', '香港3 | 80 | TCP |  回国', '香港4 | 80 | WS | 回国', '香港5 | 80 | TCP | 回国', '香港6 | 80 | WS |', '香港7 | 80 | TCP |', '香港8 | 80 | TCP |  Netflix', '日本1 | 80 | WS | Netflix', '日本2 | 80 | WS |', '日本3 | 80 | TCP | Netflix', '日本4 | 80 | WS | Netflix', 'Opc | 80 | WS | 美国', 'Opc日本 | 80 | WS |', 甲骨文美国2, opc日本|中转|原生|非免流|, 以下为校园网, '⌈校园网⌋  国内53', '⌈校园网⌋  国内67', '⌈校园网⌋  国内68', '⌈校园网⌋  国内546'] }
+    - { name: 抖音免流, type: select, proxies: [全球自动选择, 境外自动选择, 故障转移, '剩余流量：408.61 GB', '距离下次重置剩余：3 天', 套餐到期：2023-02-16, '快游戏官网：http://www.quick-connect.top/', 只用于游戏加速，禁止用于非法用途，禁止刷流量，谢谢大家配合, 所有HTTP、WS节点可自定义PATH, '四川 | 80 | WS |', '四川 | 80 | WS | ipv6', '江苏 | 80 | TCP |', '四川 | 443 | TCP |', '香港1 | 80 | WS |  Netflix', '香港2 | 80 | TCP |  回国', '香港3 | 80 | TCP |  回国', '香港4 | 80 | WS | 回国', '香港5 | 80 | TCP | 回国', '香港6 | 80 | WS |', '香港7 | 80 | TCP |', '香港8 | 80 | TCP |  Netflix', '日本1 | 80 | WS | Netflix', '日本2 | 80 | WS |', '日本3 | 80 | TCP | Netflix', '日本4 | 80 | WS | Netflix', 'Opc | 80 | WS | 美国', 'Opc日本 | 80 | WS |', 甲骨文美国2, opc日本|中转|原生|非免流|, 以下为校园网, '⌈校园网⌋  国内53', '⌈校园网⌋  国内67', '⌈校园网⌋  国内68', '⌈校园网⌋  国内546'] }    
     - { name: 全球自动选择, type: url-test, proxies: ['剩余流量：408.61 GB', '距离下次重置剩余：3 天', 套餐到期：2023-02-16, '快游戏官网：http://www.quick-connect.top/', 只用于游戏加速，禁止用于非法用途，禁止刷流量，谢谢大家配合, 所有HTTP、WS节点可自定义PATH, '四川 | 80 | WS |', '四川 | 80 | WS | ipv6', '江苏 | 80 | TCP |', '四川 | 443 | TCP |', '香港1 | 80 | WS |  Netflix', '香港2 | 80 | TCP |  回国', '香港3 | 80 | TCP |  回国', '香港4 | 80 | WS | 回国', '香港5 | 80 | TCP | 回国', '香港6 | 80 | WS |', '香港7 | 80 | TCP |', '香港8 | 80 | TCP |  Netflix', '日本1 | 80 | WS | Netflix', '日本2 | 80 | WS |', '日本3 | 80 | TCP | Netflix', '日本4 | 80 | WS | Netflix', 'Opc | 80 | WS | 美国', 'Opc日本 | 80 | WS |', 甲骨文美国2, opc日本|中转|原生|非免流|, 以下为校园网, '⌈校园网⌋  国内53', '⌈校园网⌋  国内67', '⌈校园网⌋  国内68', '⌈校园网⌋  国内546'], url: 'http://content.rom.miui.com/generate_204', interval: 1800 }
     - { name: 境外自动选择, type: url-test, proxies: ['剩余流量：408.61 GB', '距离下次重置剩余：3 天', 套餐到期：2023-02-16, '快游戏官网：http://www.quick-connect.top/', 只用于游戏加速，禁止用于非法用途，禁止刷流量，谢谢大家配合, 所有HTTP、WS节点可自定义PATH, '四川 | 80 | WS |', '四川 | 80 | WS | ipv6', '江苏 | 80 | TCP |', '四川 | 443 | TCP |', '香港1 | 80 | WS |  Netflix', '香港2 | 80 | TCP |  回国', '香港3 | 80 | TCP |  回国', '香港4 | 80 | WS | 回国', '香港5 | 80 | TCP | 回国', '香港6 | 80 | WS |', '香港7 | 80 | TCP |', '香港8 | 80 | TCP |  Netflix', '日本1 | 80 | WS | Netflix', '日本2 | 80 | WS |', '日本3 | 80 | TCP | Netflix', '日本4 | 80 | WS | Netflix', 'Opc | 80 | WS | 美国', 'Opc日本 | 80 | WS |', 甲骨文美国2, opc日本|中转|原生|非免流|, 以下为校园网, '⌈校园网⌋  国内53', '⌈校园网⌋  国内67', '⌈校园网⌋  国内68', '⌈校园网⌋  国内546'], url: 'http://www.google.com/generate_204', interval: 1800 }
     - { name: 故障转移, type: fallback, proxies: ['剩余流量：408.61 GB', '距离下次重置剩余：3 天', 套餐到期：2023-02-16, '快游戏官网：http://www.quick-connect.top/', 只用于游戏加速，禁止用于非法用途，禁止刷流量，谢谢大家配合, 所有HTTP、WS节点可自定义PATH, '四川 | 80 | WS |', '四川 | 80 | WS | ipv6', '江苏 | 80 | TCP |', '四川 | 443 | TCP |', '香港1 | 80 | WS |  Netflix', '香港2 | 80 | TCP |  回国', '香港3 | 80 | TCP |  回国', '香港4 | 80 | WS | 回国', '香港5 | 80 | TCP | 回国', '香港6 | 80 | WS |', '香港7 | 80 | TCP |', '香港8 | 80 | TCP |  Netflix', '日本1 | 80 | WS | Netflix', '日本2 | 80 | WS |', '日本3 | 80 | TCP | Netflix', '日本4 | 80 | WS | Netflix', 'Opc | 80 | WS | 美国', 'Opc日本 | 80 | WS |', 甲骨文美国2, opc日本|中转|原生|非免流|, 以下为校园网, '⌈校园网⌋  国内53', '⌈校园网⌋  国内67', '⌈校园网⌋  国内68', '⌈校园网⌋  国内546'], url: 'http://www.google.com/generate_204', interval: 1800 }
@@ -58,17 +59,17 @@ rules:
     - 'DOMAIN,sub2.pingguo.buzz,DIRECT'
     - 'DOMAIN,sub3.pingguo.buzz,DIRECT'
     - 'DOMAIN,quick-connect.top,DIRECT'
-    - 'DOMAIN-SUFFIX,amemv.com,快游戏'
-    - 'DOMAIN-SUFFIX,douyincdn.com,快游戏'
-    - 'DOMAIN-SUFFIX,douyinpic.com,快游戏'
-    - 'DOMAIN-SUFFIX,douyinstatic.com,快游戏'
-    - 'DOMAIN-SUFFIX,douyinvod.com,快游戏'
-    - 'DOMAIN-SUFFIX,idouyinvod.com,快游戏'
-    - 'DOMAIN-SUFFIX,ixigua.com,快游戏'
-    - 'DOMAIN-SUFFIX,ixiguavideo.com,快游戏'
-    - 'DOMAIN-SUFFIX,pstatp.com,快游戏'
-    - 'DOMAIN-SUFFIX,snssdk.com,快游戏'
-    - 'DOMAIN-SUFFIX,toutiao.com,快游戏'
+    - 'DOMAIN-SUFFIX,amemv.com,抖音免流'
+    - 'DOMAIN-SUFFIX,douyincdn.com,抖音免流'
+    - 'DOMAIN-SUFFIX,douyinpic.com,抖音免流'
+    - 'DOMAIN-SUFFIX,douyinstatic.com,抖音免流'
+    - 'DOMAIN-SUFFIX,douyinvod.com,抖音免流'
+    - 'DOMAIN-SUFFIX,idouyinvod.com,抖音免流'
+    - 'DOMAIN-SUFFIX,ixigua.com,抖音免流'
+    - 'DOMAIN-SUFFIX,ixiguavideo.com,抖音免流'
+    - 'DOMAIN-SUFFIX,pstatp.com,抖音免流'
+    - 'DOMAIN-SUFFIX,snssdk.com,抖音免流'
+    - 'DOMAIN-SUFFIX,toutiao.com,抖音免流'
     - 'DOMAIN-SUFFIX,services.googleapis.cn,快游戏'
     - 'DOMAIN-SUFFIX,xn--ngstr-lra8j.com,快游戏'
     - 'DOMAIN,safebrowsing.urlsec.qq.com,DIRECT'
