@@ -70,6 +70,7 @@ rules:
     - 'DOMAIN-SUFFIX,snssdk.com,电信卡手机免流'
     - 'DOMAIN-SUFFIX,toutiao.com,电信卡手机免流'
     - 'DOMAIN-SUFFIX,plex.tv,电信卡手机免流'
+    - 'DOMAIN-SUFFIX,plex.direct,电信卡手机免流'
     - 'DOMAIN-SUFFIX,services.googleapis.cn,快游戏'
     - 'DOMAIN-SUFFIX,xn--ngstr-lra8j.com,快游戏'
     - 'DOMAIN,safebrowsing.urlsec.qq.com,DIRECT'
